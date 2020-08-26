@@ -1,0 +1,45 @@
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\bin\Debug\Arraylistapp.exe.config
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\bin\Debug\Arraylistapp.exe
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\bin\Debug\Arraylistapp.pdb
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.csprojAssemblyReference.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\MainWindow.g.cs
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\App.g.cs
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp_MarkupCompile.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp_MarkupCompile.lref
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\MainWindow.baml
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.g.resources
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.Properties.Resources.resources
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.csproj.GenerateResource.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.csproj.CoreCompileInputs.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.exe
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.pdb
+D:\Borntodev\Arraylistapp\Arraylistapp\bin\Debug\Arraylistapp.exe.config
+D:\Borntodev\Arraylistapp\Arraylistapp\bin\Debug\Arraylistapp.exe
+D:\Borntodev\Arraylistapp\Arraylistapp\bin\Debug\Arraylistapp.pdb
+D:\Borntodev\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.csprojAssemblyReference.cache
+D:\Borntodev\Arraylistapp\Arraylistapp\obj\Debug\MainWindow.g.cs
+D:\Borntodev\Arraylistapp\Arraylistapp\obj\Debug\App.g.cs
+D:\Borntodev\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp_MarkupCompile.cache
+D:\Borntodev\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp_MarkupCompile.lref
+D:\Borntodev\Arraylistapp\Arraylistapp\obj\Debug\MainWindow.baml
+D:\Borntodev\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.g.resources
+D:\Borntodev\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.Properties.Resources.resources
+D:\Borntodev\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.csproj.GenerateResource.cache
+D:\Borntodev\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.csproj.CoreCompileInputs.cache
+D:\Borntodev\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.exe
+D:\Borntodev\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.pdb
+D:\Borntodev\Arraylist\Arraylistapp\bin\Debug\Arraylistapp.exe.config
+D:\Borntodev\Arraylist\Arraylistapp\bin\Debug\Arraylistapp.exe
+D:\Borntodev\Arraylist\Arraylistapp\bin\Debug\Arraylistapp.pdb
+D:\Borntodev\Arraylist\Arraylistapp\obj\Debug\Arraylistapp.csprojAssemblyReference.cache
+D:\Borntodev\Arraylist\Arraylistapp\obj\Debug\MainWindow.g.cs
+D:\Borntodev\Arraylist\Arraylistapp\obj\Debug\App.g.cs
+D:\Borntodev\Arraylist\Arraylistapp\obj\Debug\Arraylistapp_MarkupCompile.cache
+D:\Borntodev\Arraylist\Arraylistapp\obj\Debug\Arraylistapp_MarkupCompile.lref
+D:\Borntodev\Arraylist\Arraylistapp\obj\Debug\MainWindow.baml
+D:\Borntodev\Arraylist\Arraylistapp\obj\Debug\Arraylistapp.g.resources
+D:\Borntodev\Arraylist\Arraylistapp\obj\Debug\Arraylistapp.Properties.Resources.resources
+D:\Borntodev\Arraylist\Arraylistapp\obj\Debug\Arraylistapp.csproj.GenerateResource.cache
+D:\Borntodev\Arraylist\Arraylistapp\obj\Debug\Arraylistapp.csproj.CoreCompileInputs.cache
+D:\Borntodev\Arraylist\Arraylistapp\obj\Debug\Arraylistapp.exe
+D:\Borntodev\Arraylist\Arraylistapp\obj\Debug\Arraylistapp.pdb
